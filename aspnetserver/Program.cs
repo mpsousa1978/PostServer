@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
         builder
         .AllowAnyMethod()
         .AllowAnyHeader()
-        .WithOrigins("http://localhost:3000", "https://appname.azurestaticapps.net");
+        .WithOrigins("http://localhost:3000", "https://gray-sky-0cb47a110.4.azurestaticapps.net");
         });
 });
 // Add services to the container.
