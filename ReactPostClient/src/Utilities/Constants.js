@@ -1,5 +1,5 @@
 const API_BASE_URL_DEVELOPMENT = "https://localhost:7165";
-const API_BASE_URL_PRODUCTION = "https://aspnetcorereactpost-server.azurewebsites.net";
+const API_BASE_URL_PRODUCTION = "https://apipostserver-aspnetcore.azurewebsites.net";
 
 const ENDPOINT = {
   GET_ALL_POST: "get-all-posts",

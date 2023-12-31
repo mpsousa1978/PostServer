@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetserver", "aspnetserver\aspnetserver.csproj", "{8EC674FF-AF1E-40E5-95BF-32DB966FEFCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiPostServer", "aspnetserver\ApiPostServer.csproj", "{8EC674FF-AF1E-40E5-95BF-32DB966FEFCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
