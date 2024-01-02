@@ -45,7 +45,7 @@ function App() {
         <div className="col d-flex flex-column justify-content-center align-items-center">
           {showingCreateNewPostForm === false && postCurrentBeingUpdated === null && (
             <div>
-              <h1>Asp.net core React</h1>
+              <h1>Asp.net core React Post</h1>
               <div className="mt-5">
                 <button onClick={GetPosts} className="btn btn-dark btn-lg w-100">
                   Get Post from server
